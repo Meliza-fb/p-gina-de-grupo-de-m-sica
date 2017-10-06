@@ -1,0 +1,35 @@
+/*hola soy un comentario*/
+
+/*alinear los elementos de la pagina*/
+body{
+  text-align: center;
+  /*cambiar tipografia*/
+font-family: 'Permanent Marker', cursive;
+}
+
+.cuadrado-color{
+  background-color: #150603;
+  padding-bottom: 20px/*para dar espacios*/;
+}
+h1{
+  color:#FFE010;
+}
+h3{
+  color: #FFE010;
+}
+/*cambiar color de textos*/
+p{
+  color: #312F34;
+}
+/*img{
+width: 400px; ancho de imagen
+height: 400px; alto de imagen*/
+
+.foto-grupo{
+  width: 500px;
+  height:300px;
+}
+/*hacer el sepárador(linea)1px (solid, dotted, dashed, double, groove,etc */
+.Enlaces{
+  border-top: 2px dashed #123C0E;
+}
